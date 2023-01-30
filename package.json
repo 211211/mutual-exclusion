@@ -1,0 +1,26 @@
+{
+  "name": "mutual-exclusion",
+  "version": "1.0.0",
+  "description": "My journey with mutual-exclusion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/211211/mutual-exclusion.git"
+  },
+  "keywords": [
+    "mutual",
+    "exclusion"
+  ],
+  "author": "211211 <admin@nguyenhongquan.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/211211/mutual-exclusion/issues"
+  },
+  "homepage": "https://github.com/211211/mutual-exclusion#readme",
+  "dependencies": {
+    "redis": "^4.6.3"
+  }
+}
